@@ -1,0 +1,6 @@
+venv
+__pycache__
+text.txt
+*.log
+temp
+testing_scripts

@@ -1,0 +1,16 @@
+flask
+langchain==0.0.292
+supabase==1.0.0
+pydantic==1.10.12
+celery
+openai
+tiktoken
+redis
+pypdf
+unstructured==0.7.12
+gunicorn
+pdfminer.six
+pdf2image
+pdfminer
+pillow
+reportlab
